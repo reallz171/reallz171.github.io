@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>EU TE AMO</title>
+  <style>
+    body {
+      background-color: #ffe6f0;
+      color: #d1005c;
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-size: 3em;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  EU TE AMO
+</body>
+</html>
